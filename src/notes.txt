@@ -1,0 +1,4 @@
+Github pages are .github.io pages!
+npm run build-->builds an optimized version of your react app for production purposes, and also inturns compress the files to reduce data consumptions.
+Github pages doesnt work well with reactrouter!
+Putting # inside href will inturn disable routing functionality
